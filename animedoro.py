@@ -1,3 +1,7 @@
+'''' written by B.SASI VATSAL on 21st jan,2022 '''
+
+# IGNORE ALL THE TYPOS #
+
 # importing all the required modules and methods 
 from tkinter import *
 from tkinter import ttk
