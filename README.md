@@ -1,6 +1,7 @@
+<p align="center"><img src="src/sample1.jpg" width="100%" height='300' ></p>
 <h1 align="center"> Animedoro Timer ⏲️📙�</h1>
 <h2 align="center">version-1️⃣.0️⃣.0️⃣</h2>
-Hey ! did you ever feel bad for not concentarting enough? , it's not you're mistake, there is a flaw in you're in your'e study method.
+Hey ! did you ever feel bad for not concentarting enough? , it's not you're mistake, there is a flaw in your'e study method.
 
 #### Now it's you're time to get good grades, but how? by following POMODORO TECHNIQUE  
 
@@ -12,19 +13,21 @@ Hey ! did you ever feel bad for not concentarting enough? , it's not you're mist
 ### Here is a quick illustration:
 <p align="center"><img src="src/illustration.jpg" height='700' width='900' align="center"></p>
 
-### ==> Being said that i've made my own version on pomodoro timer (coz nothing's free in 21st centuary) which help me track my study time
+### ==> Being said that , i've made my own version of pomodoro timer (coz nothing's free in 21st centuary) which help me track my study time
 and it looks like this: 
 <p align="center"><img src="preview/final.jpg" align="center"></p>
 
 ### How this thing works:
 #### - Intially timer is 00:00, when click on start you'll hear an alarm sound indicating count down has begin. It runs from 25:00
 #### - After one 25 min cycle you're again greeted with an alarm sound indicating a short break which runs 5:00
-#### - After every successful cycle of work you're granted with a streak (intially streak is 0 )
+#### - After every successful cycle of work you're granted with a streak (intially streak is 0 , snapchat pls don't sue me 😏)
 #### - After 4 cycles of work you're given a long break of 20 mins
+audio sounds like this: 
+
+https://user-images.githubusercontent.com/71326149/150498916-0d9d177d-d083-402f-9583-a59bb86ac684.mp4
 
 ### note:
 - you can reset the timer if you want so, remember you'll loose you're streak
-
 ### note-2:
 - we will be using the following modules so make sure to install them beforehand
 
