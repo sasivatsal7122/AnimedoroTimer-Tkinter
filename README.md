@@ -45,8 +45,8 @@ import pygame
 
 And yeah that's it, it took a long time to make this thing look good and functional as required, spent a lot of time on trial and error for adjusting placements of buttons,canvas,streak counter and everything you see and also at the same time making Ui look good, not to mention the googling part since tkinter do not have a proper clear documentation <a href='https://stackoverflow.com/'>stackoverflow</a> helped a lot for widgets to work.
 
-The main intention behind making this timer is to educate newbies how to deal with tkinter, i've written  proper xplaination for each line of code in source, check it <a href='https://github.com/sasivatsal7122/AnimedoroTimer-Tkinter/blob/main/animedoro.py'>here</a> ,  and i'll also post detailed instructions how take make this timer along with other very simple tkinter projects in <a href=''>learn-tkinter-with-me</a> repo.
+The main intention behind making this timer is to educate newbies how to deal with tkinter, i've written  proper xplaination for each line of code in source, check it <a href='https://github.com/sasivatsal7122/AnimedoroTimer-Tkinter/blob/main/animedoro.py'>here</a> ,  and i'll also post detailed instructions how take make this timer along with other very simple tkinter projects in <a href='https://github.com/sasivatsal7122/learn-tkinter-with-me'>learn-tkinter-with-me</a> repo.
 
-if u like the project give it a star, also check out <a href=''>learn-tkinter-with-me</a> repo.
+if u like the project give it a star, also check out <a href='https://github.com/sasivatsal7122/learn-tkinter-with-me'>learn-tkinter-with-me</a> repo.
 
 peace ✌️.
