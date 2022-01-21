@@ -43,19 +43,19 @@ def start_timer():
     biyug_break = pomo_longbreak * 60
     ''' making intitial timer, short break ,long break work dynamically using if conditions'''
     if repetition%8==0:
-        pygame.mixer.music.load("emergency_sound.mp3")
+        pygame.mixer.music.load("src/emergency_sound.mp3")
         pygame.mixer.music.play(loops=0)
         canvas.itemconfig(disp_heading,text="        Great job mate! \nhere is you're long break")
         time.sleep(1.3)
         count_down_clock(biyug_break)
     elif repetition%2==0:
-        pygame.mixer.music.load("emergency_sound.mp3")
+        pygame.mixer.music.load("src/emergency_sound.mp3")
         pygame.mixer.music.play(loops=0)
         canvas.itemconfig(disp_heading,text="              Good job! \n Take a break, walk around")
         time.sleep(1.3)
         count_down_clock(smol_break)
     else:
-        pygame.mixer.music.load("emergency_sound.mp3")
+        pygame.mixer.music.load("src/emergency_sound.mp3")
         pygame.mixer.music.play(loops=0)
         disp_head = canvas.itemconfig(disp_heading,text="Get back to work BIXCH!\n  i'll alert when it's time")
         time.sleep(1.3)
@@ -113,7 +113,7 @@ canvas = Canvas(width=500,height=500,bg=blue, highlightthickness=False)
 # create_image takes inputs like x and y co-rd of image and path of img as well
 # storing image read using PhotoImage method into the variable
 # pomodoro_tomato
-pomodoro_tomato= PhotoImage(file="test3.png")
+pomodoro_tomato= PhotoImage(file="src/test3.png")
 canvas.create_image(250,250,image=pomodoro_tomato)
 disp_heading = canvas.create_text(245,90,text="So finally you've decided to \n          study huh?!",fill=light_red,font=(FONT_HERSHEY_COMPLEX,20,'bold'))
 # creating text using create_text method which takes 1st 2 args x and y co-ords
