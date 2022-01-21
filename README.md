@@ -1,5 +1,5 @@
 <p align="center"><img src="src/sample1.jpg" width="100%" height='300' ></p>
-<h1 align="center"> Animedoro Timer ⏲️📙�</h1>
+<h1 align="center"> Animedoro Timer ⏲️📙</h1>
 <h2 align="center">version-1️⃣.0️⃣.0️⃣</h2>
 Hey ! did you ever feel bad for not concentarting enough? , it's not you're mistake, there is a flaw in your'e study method.
 
